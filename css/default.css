@@ -58,6 +58,7 @@ h1, h2, h3, p {
     transition-duration: 0.36s;
     transition-timing-function: ease-in-out;
     white-space: nowrap;
+    text-align: center;
 }
 
 .overlay:after {
