@@ -55,10 +55,9 @@ h1, h2, h3, p {
     opacity: 0;
     visibility: hidden;
     transition-property: opacity, visibility;
-    transition-duration: 0.36s;
     transition-timing-function: ease-in-out;
     white-space: nowrap;
-    text-align: center;
+    text-align: center; 
 }
 
 .overlay:after {
@@ -66,7 +65,7 @@ h1, h2, h3, p {
     display: inline-block;
     vertical-align: middle;
     height: 100%;
-}
+} 
 
 .overlay_open {
     opacity: 1;

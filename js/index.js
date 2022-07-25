@@ -1,6 +1,3 @@
-const headerNavBtn = document.querySelector('.header__nav-btn');
-const headerNavigation = document.querySelector('.header__navigation');
+import './module/menu.js'
+import './module/modal.js'
 
-headerNavBtn.addEventListener('click', () => {
-    headerNavigation.classList.toggle('header__navigation_open');
-})
