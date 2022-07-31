@@ -8,6 +8,7 @@
 - HTML
 - CSS
 - JavaScript
+- Websocket
 
 ### Что сделали:
 
